@@ -18,6 +18,15 @@
 
 ## Beverages
 
+## Snack 
+
+| Menu                     | Price    |
+|:-------------------------|----------|
+| Grilled Pork Skewers       | 59      |
+| Fried Spring Rolls       | 49     |
+| Fried Wonto       | 59       |
+|Fried Chicken       | 39      |
+| Grilled Sticky Rice Balls      | 79    
 
 
 ---
