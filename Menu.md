@@ -36,6 +36,15 @@
 
 ## Beverages
 
+## Snack 
+
+| Menu                     | Price    |
+|:-------------------------|----------|
+| Grilled Pork Skewers       | 59      |
+| Fried Spring Rolls       | 49     |
+| Fried Wonto       | 59       |
+|Fried Chicken       | 39      |
+| Grilled Sticky Rice Balls      | 79    
 
 ## Dessert
 | Item                | Price |
@@ -49,5 +58,15 @@
 
 
 ---
+## About Us
+  
+
+
+| Name  | Role      | Github     |
+| :---- | --------- | ---------- |
+| Sethanan Thongpanchang | Snack | @reviseUC73 |
+
+
+
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
