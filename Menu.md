@@ -43,6 +43,14 @@
 
 ## Beverages
 
+| Item | Price |
+|:-----|-------|
+| Milk | 20 |
+| Green Tea | 25 |
+| Lemon Tea | 25 |
+| Mocha | 30 |
+| Espresso | 30 |
+
 ## Snack 
 
 | Menu                     | Price    |
@@ -54,6 +62,7 @@
 | Grilled Sticky Rice Balls      | 79    
 
 ## Dessert
+
 | Item                | Price |
 |:-------------------------|----------|
 | Apple Pie              | 60   |
@@ -61,19 +70,5 @@
 | Tiramisu               | 50       |
 | Chocolate Mousse        | 50       |
 | Chocolate Waffles       | 30       |
-
-
-
----
-## About Us
-  
-
-
-| Name  | Role      | Github     |
-| :---- | --------- | ---------- |
-| Sethanan Thongpanchang | Snack | @reviseUC73 |
-
-
-
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
