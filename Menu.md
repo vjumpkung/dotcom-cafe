@@ -23,7 +23,13 @@
 | Rice topped with stir-fried pork and basil | 40 |
 
 ## Dinner
-
+|Item|Price|
+|---|---|
+|Taco Soup| 50|
+|One-Pot Lemon Garlic Shrimp Pasta| 70|
+|Chicken & Veggie Stir-Fry| 60|
+|Easy Butter Chicken| 100|
+|Black Bean–Stuffed Sweet Potatoes| 80|
 
 ## Night Food
 
