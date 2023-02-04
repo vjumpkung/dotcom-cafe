@@ -18,7 +18,13 @@
 
 ## Beverages
 
-
+| Item | Price |
+|:-----|-------|
+| Milk | 20 |
+| Green Tea | 25 |
+| Lemon Tea | 25 |
+| Mocha | 30 |
+| Espresso | 30 |
 
 ---
 
