@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-[Breakfast](#breakfast) | Section2 | [Dinner](#Dinner) | [Dessert](#dessert)
+[Drive-Thru](#drive-thru) | [Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night Food](#night-food) | [Beverages](#beverages) | [Snack](#snack) | [Dessert](#dessert) | [About us](#about-us)
 
 ## Drive-Thru
 
