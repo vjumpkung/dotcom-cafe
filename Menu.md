@@ -30,5 +30,15 @@
 
 
 ---
+## About Us
+  
+
+
+| Name  | Role      | Github     |
+| :---- | --------- | ---------- |
+| Sethanan Thongpanchang | Snack | @reviseUC73 |
+
+
+
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
