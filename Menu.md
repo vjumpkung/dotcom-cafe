@@ -14,6 +14,13 @@
 
 
 ## Night Food
+| Item | Price |
+| --- | --- |
+| Grilled Squid | 20 |
+| Rice Porridge | 40 |
+| French Fries | 20 |
+| Rice with Omelet | 35 |
+| Pad Thai | 50 |
 
 
 ## Beverages
