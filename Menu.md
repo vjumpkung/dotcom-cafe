@@ -19,6 +19,16 @@
 ## Beverages
 
 
+## Dessert
+| Item                | Price |
+|:-------------------------|----------|
+| Apple Pie              | 60   |
+| Fudgy Chewy Brownies   | 50       |
+| Tiramisu               | 50       |
+| Chocolate Mousse        | 50       |
+| Chocolate Waffles       | 30       |
+
+
 
 ---
 
