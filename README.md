@@ -79,7 +79,7 @@ We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
 
 | Name                   | Role        | Github          |
 | :--------------------- | ----------- | --------------- |
-| Vjump                  | Breakfast   | @Vjumpkung      |
+| Chanrich Pisitjing     | Breakfast   | @Vjumpkung      |
 | Pubodee Sutanrak       | Lunch       | @ItsZodiaX      |
 | Kittiporn Theamnooch   | Dinner menu | @Hamiz5401      |
 | Wallop Wiwidhaworarat  | Night Food  | @Pponghub       |
