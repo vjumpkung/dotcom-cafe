@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-[Breakfast](Menu.md#breakfast) | Section2 | [Dinner](Menu.md#Dinner) | [Dessert](Menu.md#dessert)
+[Breakfast](Menu.md#breakfast) | [Lunch](Menu.md#lunch) | [Dinner](Menu.md#Dinner) | [Dessert](Menu.md#dessert)
 
 ## About Us
 
