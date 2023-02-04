@@ -14,6 +14,13 @@
 
 ## Lunch 
 
+| Item | Price |
+|:-----|-------|
+| Stewed pork leg on rice | 60 |
+| Shrimp-paste fried rice | 50 |
+| Fried rice with pork | 50 |
+| Rice crispy pork | 50 |
+| Rice topped with stir-fried pork and basil | 40 |
 
 ## Dinner
 
