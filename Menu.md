@@ -4,7 +4,7 @@
 ## Breakfast
 
 |        Item         | Price |
-| :-----------------: | :---: |
+| ----------------- | --- |
 |     Pork Congee     |  30   |
 |      Fried Egg      |  25   |
 | Sandwich Ham-Cheese |  25   |
@@ -32,9 +32,23 @@
 | Black Bean–Stuffed Sweet Potatoes | 80    |
 
 ## Night Food
-
+| Item | Price |
+| --- | --- |
+| Grilled Squid | 20 |
+| Rice Porridge | 40 |
+| French Fries | 20 |
+| Rice with Omelet | 35 |
+| Pad Thai | 50 |
 
 ## Beverages
+
+| Item | Price |
+|:-----|-------|
+| Milk | 20 |
+| Green Tea | 25 |
+| Lemon Tea | 25 |
+| Mocha | 30 |
+| Espresso | 30 |
 
 ## Snack 
 
