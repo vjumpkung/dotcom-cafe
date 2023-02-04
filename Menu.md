@@ -3,9 +3,14 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+|        Item         | Price |
+| :-----------------: | :---: |
+|     Pork Congee     |  30   |
+|      Fried Egg      |  25   |
+| Sandwich Ham-Cheese |  25   |
+|       Cereal        |  20   |
+|    rice noodles     |  35   |
+
 
 ## Lunch 
 
